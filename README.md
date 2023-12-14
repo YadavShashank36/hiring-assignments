@@ -4,6 +4,11 @@
 
 This is a simple virtual disk shell implemented in Python. It provides basic functionalities to create directories, files, navigate through directories, copy/move entries, and more.
 
+## Clone the repo
+
+bash
+git clone https://github.com/YadavShashank36/hiring-assignments
+
 ## Classes
 
 ### FileNode
