@@ -6,9 +6,9 @@ This is a simple virtual disk shell implemented in Python. It provides basic fun
 
 ## Clone the repo
 
-bash
+```bash
 git clone https://github.com/YadavShashank36/hiring-assignments
-
+```
 ## Classes
 
 ### FileNode
