@@ -67,4 +67,6 @@ cp /source_file.txt /destination/
 # Example: Move a directory to a new location
 mv /source_directory/ /new_location/
 ```
-![Alt text]()
+![Preview Image](https://github.com/YadavShashank36/hiring-assignments/blob/main/1.png)
+![Preview Image](https://github.com/YadavShashank36/hiring-assignments/blob/main/2.png)
+
