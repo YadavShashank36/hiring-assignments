@@ -1,4 +1,4 @@
-# Virtual Disk Shell
+# Shell
 
 ## Introduction
 
@@ -25,17 +25,17 @@ This is a simple virtual disk shell implemented in Python. It provides basic fun
 
 1. Run the script.
 2. Enter commands at the prompt, such as:
-   - mkdir <Directory Name>: Create a new directory.
-   - touch <File Name>: Create a new file.
-   - cd <Directory Name>: Change the current directory.
-   - echo 'text' > filename.txt: Output text to the screen or a file.
-   - ls: List contents of the current directory.
-   - cat <File Name>: Display the contents of a file.
-   - rm <Directory or File Name>: Remove a directory or file.
-   - cp <Source> <Destination>: Copy an entry.
-   - mv <Source> <Destination>: Move an entry.
-   - dump <Virtual Disk Dump Path>: Dump the virtual disk as a pickle.
-   - exit: Exit the virtual disk shell.
+   - `mkdir` <Directory Name>: Create a new directory.
+   - `touch` <File Name>: Create a new file.
+   - `cd` <Directory Name>: Change the current directory.
+   - `echo` 'text' > filename.txt: Output text to the screen or a file.
+   - `ls`: List contents of the current directory.
+   - `cat` <File Name>: Display the contents of a file.
+   - `rm` <Directory or File Name>: Remove a directory or file.
+   - `cp` <Source> <Destination>: Copy an entry.
+   - `mv` <Source> <Destination>: Move an entry.
+   - `dump` <Virtual Disk Dump Path>: Dump the virtual disk as a pickle.
+   - `exit`: Exit the virtual disk shell.
 
 ## Examples
 
@@ -66,3 +66,5 @@ cp /source_file.txt /destination/
 
 # Example: Move a directory to a new location
 mv /source_directory/ /new_location/
+```
+![Alt text]()
